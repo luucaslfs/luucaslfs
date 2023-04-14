@@ -11,10 +11,10 @@ I am a Developer focusing on Backend (Spring Boot), DevOps and Python for Automa
 
 🧰 Toolbox
   <ul>
-      <li>Back-End with Spring</li>  
+      <li>Back-End with Spring, FastAPI and Flask</li>  
       <li>Automation and Web Scraping with Python</li>
       <li>Data Enginerring with Python</li>
-      <li>Cloud with Aws</li>
+      <li>Cloud with AWS</li>
       <li>Database services with SQL and MongoDB</li>
   </ul>
   <div>
