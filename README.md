@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a Developer focusing on Backend (Spring Boot), DevOps and Python for Automation(bots) and Web Scraping for market intelligence|marketing.
+I am a Developer focusing on Backend (Spring Boot), DevOps and Python for Automation(RPA) and Web Scraping for market intelligence|marketing.
 
 
 <div>
